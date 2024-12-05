@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Tanish Yelgoe, a 2nd-year undergraduate student at the Indian Institute of Technology (IIT) Gandhinagar, pursuing a Bachelor's degree in Artificial Intelligence. With a deep passion for technology and innovation, I am driven to create impactful solutions. Open-source contributions on GitHub are my way of learning, growing, and giving back to the tech community.
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
