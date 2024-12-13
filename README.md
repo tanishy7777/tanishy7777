@@ -2,10 +2,10 @@
 I'm Tanish Yelgoe, a 2nd-year undergraduate student at the `Indian Institute of Technology (IIT) Gandhinagar`, pursuing a Bachelor's degree in Artificial Intelligence. 
 
 
-- 👀 I’m interested in AI and data science
+- 🧐 I’m interested in Machine Learning.
 - 🌱 I’m currently learning DSA, Python and PyTorch.
 - ✨ I love to contribute to Open-source.
-- 📫 Reach out to me [here](https://www.linkedin.com/in/tanish-yelgoe-a04a57291/) or on my email (23110329@iitgn.ac.in)
+- 📧 Reach out to me [here](https://www.linkedin.com/in/tanish-yelgoe-a04a57291/) or on my email (23110329@iitgn.ac.in)
 
 
 #
