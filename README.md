@@ -1,17 +1,12 @@
-## Hi there 
-I'm Tanish Yelgoe, a 2nd-year undergraduate student at the Indian Institute of Technology (IIT) Gandhinagar, pursuing a Bachelor's degree in Artificial Intelligence. With a deep passion for technology and innovation, I am driven to create impactful solutions. Open-source contributions on GitHub are my way of learning, growing, and giving back to the tech community.
+### Hi there 👋
+I'm Tanish Yelgoe, a 2nd-year undergraduate student at the `Indian Institute of Technology (IIT) Gandhinagar`, pursuing a Bachelor's degree in Artificial Intelligence. 
 
-### Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+- 👀 I’m interested in AI and data science
+- 🌱 I’m currently learning DSA, Python and PyTorch.
+- ✨ I love to contribute to Open-source.
+- 📫 Reach out to me [here](https://www.linkedin.com/in/tanish-yelgoe-a04a57291/) or on my email (23110329@iitgn.ac.in)
+
 
 #
 
