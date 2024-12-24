@@ -6,6 +6,7 @@ I'm Tanish Yelgoe, a 2nd-year undergraduate student at the `Indian Institute of 
 - 🌱 I’m currently learning DSA, Python and PyTorch.
 - ✨ I love to contribute to Open-source.
 - 📧 Reach out to me [here](https://www.linkedin.com/in/tanish-yelgoe-a04a57291/) or on my email (23110329@iitgn.ac.in)
+- Want to be part of my Journey? Have a look at my blog (coming soon).
 
 
 #
