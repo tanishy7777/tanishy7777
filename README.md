@@ -1,6 +1,11 @@
 ### Hi there 👋
 I'm Tanish Yelgoe, a 2nd-year undergraduate student at the `Indian Institute of Technology (IIT) Gandhinagar`, pursuing a Bachelor's degree in Artificial Intelligence. 
 
+<!-- A colorful and eye-catching Typing SVG for your GitHub README -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=006ee6&background=FFFFFF&center=true&vCenter=true&width=500&lines=Hi!+I+am+Tanish+Yelgoe" alt="Typing SVG" />
+</a>
+
 
 - 🧐 I’m interested in Machine Learning.
 - 🌱 I’m currently learning DSA, Python and PyTorch.
