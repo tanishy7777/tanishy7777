@@ -9,7 +9,7 @@ I'm Tanish Yelgoe, a 2nd-year undergraduate student at the `Indian Institute of 
 
 - 🧐 I’m interested in Machine Learning.
 - 🌱 I’m currently learning DSA, Python and PyTorch.
-- ✨ I love to contribute to Open-source.
+- ✨ I love to contribute to Open-source [My PRs](https://github.com/pulls?q=is%3Apr+author%3Atanishy7777+archived%3Afalse+is%3Amerged).
 - 📧 Reach out to me [here](https://www.linkedin.com/in/tanish-yelgoe-a04a57291/) or on my email (23110328@iitgn.ac.in)
 - Want to be part of my Journey? Have a look at my blog (coming soon).
 
