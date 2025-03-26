@@ -4,7 +4,7 @@ I'm Tanish Yelgoe, a 2nd-year undergraduate student at the `Indian Institute of 
 
 
 
-- 🧐 I’m interested in Machine Learning.
+- 🧐 I’m interested in Machine Learning, Deep Learning and algorithms
 - 🌱 I’m currently working on **Timeseries Clustering and Classification**, through **Aeon** and University Project Course on Sleep Stage Classification using **Ortho-Nasal and ribcage movement signals** to calculate Apnea Hypopnea Index for patients with Sleep Apnea.
 - ✨ I love to contribute to Open-source [My PRs](https://github.com/pulls?q=is%3Apr+author%3Atanishy7777+archived%3Afalse+is%3Amerged).
 - 📧 Reach out to me [here](https://www.linkedin.com/in/tanish-yelgoe-a04a57291/) or on my email (23110328@iitgn.ac.in)
