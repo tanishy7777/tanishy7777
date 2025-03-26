@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Tanish Yelgoe, a 2nd-year undergraduate student at the `Indian Institute of Technology (IIT) Gandhinagar`, pursuing a Bachelor's degree in Artificial Intelligence. 
+### Hi I am Tanish 👋
+Sophomore at the **Indian Institute of Technology (IIT) Gandhinagar**, pursuing a Bachelor of Technology (B.Tech) degree in **Artificial Intelligence**.
 
 
 
